@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright Sebastian Legieziński 2023
 
 #include "SimpleNetworkFunctions.h"
 

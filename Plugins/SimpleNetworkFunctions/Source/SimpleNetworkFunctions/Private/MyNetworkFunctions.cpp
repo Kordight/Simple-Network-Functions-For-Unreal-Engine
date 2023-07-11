@@ -1,9 +1,9 @@
+// Copyright Sebastian Legieziński 2023
+
 #include "MyNetworkFunctions.h"
 #include "Sockets.h"
 #include "SocketSubsystem.h"
 #include "IPAddress.h"
-
-
 
 
 FString UMyNetworkFunctions::GetLocalIPAddress()
